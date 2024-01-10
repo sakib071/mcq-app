@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "correctAnswer": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": "Mars"
+    },
+    {
+        "id": 3,
+        "question": "What is the largest mammal on Earth?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Hippopotamus"
+        ],
+        "correctAnswer": "Blue Whale"
+    },
+    {
+        "id": 4,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": [
+            "Charles Dickens",
+            "Jane Austen",
+            "William Shakespeare",
+            "Mark Twain"
+        ],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "id": 5,
+        "question": "What is the main ingredient in guacamole?",
+        "options": [
+            "Tomato",
+            "Avocado",
+            "Onion",
+            "Lime"
+        ],
+        "correctAnswer": "Avocado"
+    },
+    {
+        "id": 6,
+        "question": "Which programming language is known for building interactive web pages?",
+        "options": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "Ruby"
+        ],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "id": 7,
+        "question": "What is the currency of Japan?",
+        "options": [
+            "Won",
+            "Yuan",
+            "Yen",
+            "Ringgit"
+        ],
+        "correctAnswer": "Yen"
+    },
+    {
+        "id": 8,
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+        "id": 9,
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": [
+            "Oxygen",
+            "Gold",
+            "Silver",
+            "Iron"
+        ],
+        "correctAnswer": "Oxygen"
+    },
+    {
+        "id": 10,
+        "question": "What is the capital of Australia?",
+        "options": [
+            "Canberra",
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "correctAnswer": "Canberra"
+    }
+]
