@@ -22,7 +22,7 @@ const Question = ({ question, onNextQuestion, onAnswer }) => {
 
     return (
         <div className="h-screen flex flex-col justify-center items-center">
-            <div key={question.id} className="card w-96 bg-base-100 rounded-md shadow-xl">
+            <div key={question.id} className="card lg:w-96 w-80 bg-base-100 rounded-md shadow-xl">
                 <div className="card-body">
                     <div className="flex w-full justify-end">
                         <h3 className="text-sm font-semibold">{question.id}/{ques.length}</h3>
